@@ -1,62 +1,62 @@
 .blackdot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color:#000000;
     border-radius: 50%;
     display: inline-block;
   }
     
   .reddot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color: #FF251B;
     border-radius: 50%;
     display: inline-block;
   }
 
   .bluedot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color: #0B0EB8;
     border-radius: 50%;
     display: inline-block;
   }
 
   .voiletdot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color: #8641C2;
     border-radius: 50%;
     display: inline-block;
   }
 
   .greendot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color: #44FF00;
     border-radius: 50%;
     display: inline-block;
   }
 
   .orangedot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color:#FF851F ;
     border-radius: 50%;
     display: inline-block;
   }
 
   .yellowdot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color:#FFF224     ;
     border-radius: 50%;
     display: inline-block;
   }
 
   .pinkdot {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color:#FF73D9;
     border-radius: 50%;
     display: inline-block;
