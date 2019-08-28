@@ -5,6 +5,14 @@
   border-radius: 50%;
   display: inline-block;
 }
+
+  .white{
+    height: 20px;
+    width: 20px;
+    background-color:#FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+  }
 .blackdot {
     height: 40px;
     width: 40px;
@@ -37,6 +45,14 @@
     display: inline-block;
   }
 
+  .smallvoilet{
+    height: 20px;
+    width: 20px;
+    background-color: #8641C2;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
   .greendot {
     height: 40px;
     width: 40px;
@@ -48,6 +64,13 @@
   .orangedot {
     height: 40px;
     width: 40px;
+    background-color:#FF851F ;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .smallorange {
+    height: 20px;
+    width: 20px;
     background-color:#FF851F ;
     border-radius: 50%;
     display: inline-block;
