@@ -20,6 +20,13 @@
     border-radius: 50%;
     display: inline-block;
   }
+  .smallblack {
+    height: 20px;
+    width: 20px;
+    background-color:#000000;
+    border-radius: 50%;
+    display: inline-block;
+  }
     
   .reddot {
     height: 40px;
@@ -28,10 +35,24 @@
     border-radius: 50%;
     display: inline-block;
   }
+  .smallred{
+    height: 20px;
+    width: 20px;
+    background-color: #FF251B;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
   .bluedot {
     height: 40px;
     width: 40px;
+    background-color: #0B0EB8;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .smallblue{
+    height: 20px;
+    width: 20px;
     background-color: #0B0EB8;
     border-radius: 50%;
     display: inline-block;
@@ -60,6 +81,13 @@
     border-radius: 50%;
     display: inline-block;
   }
+  .smallgreen{
+    height: 20px;
+    width: 20px;
+    background-color: #44FF00;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
   .orangedot {
     height: 40px;
@@ -83,10 +111,24 @@
     border-radius: 50%;
     display: inline-block;
   }
+  .smallyellow{
+    height: 20px;
+    width: 20px;
+    background-color:#FFF224     ;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
   .pinkdot {
     height: 40px;
     width: 40px;
+    background-color:#FF73D9;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .smallpink{
+    height: 20px;
+    width: 20px;
     background-color:#FF73D9;
     border-radius: 50%;
     display: inline-block;
