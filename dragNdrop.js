@@ -4,6 +4,19 @@ let rowColors = [
 
 let cols = ["one", "two", "three", "four"];
 
+let colors = ["blue","orange","red","violet","pink","yellow","black","green"];
+
+let codeColors = [];
+
+function codeGenerator(){
+  while(codeColors.length < 4){
+      var r = Math.floor(Math.random()*7);
+      console.log(r);
+      if(codeColors.indexOf(r) === -1) codeColors.push(r);
+  }
+}
+codeGenerator();
+
 function colorReplacer(data, row){
   for (i = 0, len = rowColors.length; i < len; i++){
     if(data===rowColors[i]){
